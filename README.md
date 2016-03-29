@@ -219,3 +219,5 @@ php代码:
             $re['randStr'] = $randStr;
 			echo json_encode($re);exit;
 	 }
+#   w e c h a t S h a r e  
+ 
